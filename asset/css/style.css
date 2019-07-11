@@ -355,9 +355,9 @@ a.navbar-brand {
 
 .navbar-default .navbar-nav > li > a.active, 
 .navbar-default .navbar-nav > li:hover > a {
-	border-top: 2px solid #FF432E;
+	border-top: 2px solid #0077ff;
     color: #fff;
-    background: #FF432E;
+    background: #0077ff;
     //padding: 25px 15px 30px;
 }
 
@@ -507,7 +507,7 @@ a.navbar-brand {
 }
 
 .banner .intro-text h1 span {
-    color: #ff432e;
+    color: #0077ff;
 }
 
 .banner .intro-text p {
@@ -2134,7 +2134,7 @@ textarea {
 }
 
 .contact .text-danger {
-    color: #e74c3c;
+    color: #0077ff;
 }
 
 .contact button {
