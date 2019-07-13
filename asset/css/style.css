@@ -1261,7 +1261,7 @@ and (min-width : 551px){
 .counter-item i {
   font-size:40px;
     color: #fff;
-    background: #5BB12F;
+    background: #0077ff;
     padding: 40px 50px;
 }
 
@@ -1301,7 +1301,7 @@ and (min-width : 551px){
 
 .pricing-header i {
     font-size: 32px;
-    background: #5BB12F;
+    background: #0077ff;
     color: #fff;
     padding: 35px;
     border-radius: 100%;
@@ -1325,7 +1325,7 @@ h3.pricing-title {
 }
 
 .colored-bg {
-    background: #5BB12F;
+    background: #f1f1f1;
 }
 
 .colored-bg i {
